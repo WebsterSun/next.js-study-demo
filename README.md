@@ -17,6 +17,16 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- 用nextjs创建的全栈项目，
+- 使用next的App-router，
+- 动态路由
+- 路由传值
+- 嵌套路由的使用
+- 原生fetch的使用
+- 自定义组件的创建和引用
+- mongoose的使用
+- 黑夜、白昼模式切换功能
+- 可以成功连接cloud.mongodb.com并通过使用fetch获取到数据操作。
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
